@@ -263,7 +263,7 @@ check <- seq(1, 15, 3)
 After running the function, depending on what the function returns, print either:
 
   - "{} is in the vector."
-  - "{} is not in the vector.
+  - "{} is not in the vector."
   
 ```{r}
 in_vector <- function(value, check) {
